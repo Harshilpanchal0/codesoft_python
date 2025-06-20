@@ -3,7 +3,7 @@
 # NAME : Panchal Harshil Shaileshbhai
 
 Welcome to my project repository for the **CodSoft Python Programming Internship** – June 2025.  
-This repository contains solutions for **all 5 tasks** assigned during the internship, built using **Python**.
+This repository contains solutions for **all 3 tasks** assigned during the internship, built using **Python**.
 
 ---
 
